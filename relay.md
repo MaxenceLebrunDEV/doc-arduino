@@ -41,7 +41,6 @@ void loop() {
 }
 ```
 Ce programme allume la lampe connectée au module Relay pendant une seconde, puis l'éteint pendant une seconde, et ainsi de suite en boucle.
-[a relative link](other_file.md)
 ## Exemples d'utilisation
 - [Exemple 1 : Allumer une lampe](exemples/light.md)
 - [Exemple 2 : Ouvrir un volet](exemples/volet.md)
