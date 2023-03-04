@@ -19,7 +19,7 @@ L'EEPROM de l'ESP32 est basée sur la mémoire flash et est organisée en pages 
 
 ```arduino
 
-`EEPROM.begin(taille);
+EEPROM.begin(taille);
 
 ```
 
@@ -192,7 +192,7 @@ Une fois que les données ont été écrites dans l'EEPROM, il est important de 
 
 ```arduino
 
-EEPROM.commit();`
+EEPROM.commit();
 
 ```
 
